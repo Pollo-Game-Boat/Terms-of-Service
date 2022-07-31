@@ -7,8 +7,6 @@ Terms of Service for Póllo Game Boat
 <p><b>If you attempt to crash, maliciously share exploits within our bot to others and abuse our bot at all (including spamming the bot commands) or if any suspicious activity is suspected, we have the right to take away your privilege to use any Service(s), Product(s), Premium(s) that we provide through the our Discord bot on the Discord Client, or outside of the Discord Client. (If you are caught with an alt using it then that as well will be blacklisted.)</b></p>  
 </blockquote>
 
-<i>These Terms are subject to change, without notifying you.  So check here often.</i>
-
 #### If you feel that someone is abusing our bot, please contact us on our support server in <a href="https://discord.com/channels/825065920299925524/829148159959629834">#report-a-user</a> or if you feel more comfortable then DM one of our staff members.  Check the current staff with <code>PO!staff</code>.  
 
 ### <b><i>Changes to these Terms of Service</i></b>
